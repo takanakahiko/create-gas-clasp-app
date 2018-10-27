@@ -1,0 +1,19 @@
+{
+  "name": "create-gas-clasp-app",
+  "version": "1.0.0",
+  "description": "Create a Google Apps Script project locally in seconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takanakahiko/create-gas-clasp-app.git"
+  },
+  "author": "takanakahiko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takanakahiko/create-gas-clasp-app/issues"
+  },
+  "homepage": "https://github.com/takanakahiko/create-gas-clasp-app#readme"
+}

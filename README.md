@@ -1,2 +1,2 @@
 # create-gas-clasp-app
-Create a Google Apps Script Project in seconds.
+Create a Google Apps Script project locally in seconds.
